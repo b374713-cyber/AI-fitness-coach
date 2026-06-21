@@ -8,12 +8,9 @@ and data export features, all wrapped in a modern web interface.
 
 ## 🎥 Demo Video
 
-| Platform | Demo |
-|----------|------|
-| **💻 Web Application** | [![AI Fitness Coach Demo](https://drive.google.com/thumbnail?id=1sVKq-YhkWZQepBvQNjAwkeFNo1T2T_5F)](https://drive.google.com/file/d/1sVKq-YhkWZQepBvQNjAwkeFNo1T2T_5F/view?usp=drivesdk) |
+[![AI Fitness Coach Demo](https://drive.google.com/thumbnail?id=1sVKq-YhkWZQepBvQNjAwkeFNo1T2T_5F)](https://drive.google.com/file/d/1sVKq-YhkWZQepBvQNjAwkeFNo1T2T_5F/view?usp=drivesdk)
 
 *Click the image above to watch the demo video on Google Drive.*
-
 
 ## Tech Stack
 
